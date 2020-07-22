@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on: interactive experiences using 3D models and Unity game engine.
-- 🌱 I’m currently learning: web deveolpment stack (HTML, CSS, JavaScript, and MEAN stack).
+- 🌱 I’m currently learning: web development stack (HTML, CSS, JavaScript, and MEAN stack).
+- 💬 Ask me about Virtual Reality design and development
